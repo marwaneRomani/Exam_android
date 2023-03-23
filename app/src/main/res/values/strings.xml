@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="signinWith">Signin with</string>
+    <string name="no_account">Don\'t have an account</string>
+    <string name="have_account">Do you have an account</string>
+    <string name="remember">Remember me</string>
+    <string name="forgot">Forgot password</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="or">-OR-</string>
+    <string name="full_name">Full name</string>
+    <string name="phone">Phone</string>
+    <string name="confirm">Confirm Password</string>
+</resources>
